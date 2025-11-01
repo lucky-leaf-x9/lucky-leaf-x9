@@ -1,4 +1,4 @@
-### Hi there 👋 I'm a full-stack developer ✨
+### Hi there 👋 I'm a full-stack developer | Brwoser extension developer ✨
 
 # What's going on 
 
