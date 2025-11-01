@@ -2,7 +2,7 @@
 
 # What's going on 
 
-- 👯 Highly interested in working on EdTech / HealthTech / FoodTech / FinTech / others with a long-term period
+- 👯 Highly interested in working on EdTech / HealthTech / E-Learning / FinTech / others with a long-term period
 - 💬 Ask me about .js, .ts, .java, .py, .yml, AWS, Serverless architecture, FastAPI, Express, Spring, React, Next, Vue, etc.
 - 😄 Pronouns: he/him
 
