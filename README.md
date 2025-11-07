@@ -1,10 +1,24 @@
-### Hi there 👋 I'm a full-stack developer | Brwoser extension developer ✨
+👋 Hi, I'm a Full-Stack Developer & Browser Extension Engineer
+🚀 What I Do
 
-# What's going on 
+I build high-quality, scalable applications across the stack, with a strong focus on clean architecture, performance, and great developer experience.
 
-- 👯 Highly interested in working on EdTech / HealthTech / E-Learning / FinTech / others with a long-term period
-- 💬 Ask me about .js, .ts, .java, .py, .yml, AWS, Serverless architecture, FastAPI, Express, Spring, React, Next, Vue, etc.
-- 😄 Pronouns: he/him
+🔍 Interests
+
+👯 Open to long-term collaboration, especially in EdTech, HealthTech, E-Learning, FinTech, and other impactful product domains
+
+💡 Passionate about distributed systems, automation, and building tools that improve productivity
+
+💬 Tech I Work With
+
+Languages & Tools: JavaScript, TypeScript, Java, Python, YAML
+Frameworks: FastAPI, Express.js, Spring Boot, React, Next.js, Vue
+Infrastructure: AWS, Serverless Architecture, CI/CD, Cloud-native tooling
+
+😄 Pronouns
+
+he/him
+
 
 
 My Languages and tools
